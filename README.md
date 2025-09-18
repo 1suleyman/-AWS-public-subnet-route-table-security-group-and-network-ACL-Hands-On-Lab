@@ -8,6 +8,8 @@ This project assumes I completed the [previous networking project](https://githu
 
 ---
 
+<img width="1485" height="812" alt="image" src="https://github.com/user-attachments/assets/36b2e53c-f085-499e-ad2f-439d33080a17" />
+
 ## 📋 What I Did
 
 ### Step 1: I Added a Route Table and Security Group
